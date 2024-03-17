@@ -1,5 +1,5 @@
-icons https://react-icons.github.io/react-icons/
-routing https://www.npmjs.com/package/react-router-dom
+icons https://react-icons.github.io/react-icons/ 
+routing https://www.npmjs.com/package/react-router-dom 
 version control https://github.com/
 UI Material Design https://mui.com/material-ui/
 Youtube API V3 https://rapidapi.com/collection/list-of-free-apis
